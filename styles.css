@@ -16,6 +16,7 @@ li:first-child{
 	width: 50%;
 	background-color: white;
 	padding: 10px;
+	font-size: 22px;
 }
 li:nth-child(2){
 	width: 50%;
@@ -32,10 +33,11 @@ li:nth-child(4){
 	background-color: gray;
 	padding: 10px;
 }
-li:last-child(5){
+li:last-child{
 	width: 50%;
 	background-color: white;
 	padding: 10px;
+	font-size: 22px;
 }
 
 
