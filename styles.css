@@ -3,7 +3,8 @@
 	background-color: rgb(135, 206, 235)
 }
 p:first-child{
-	 color: black;
+	 color: white;
+	background-color: black;
     
 }
  p:nth-child(2){
@@ -11,6 +12,10 @@ p:first-child{
 }
 p:last-child{
 	color: red;
+}
+ul{
+	background-color: gray;
+	width: 50%;
 }
 li:first-child{
 	width: 50%;
@@ -20,7 +25,7 @@ li:first-child{
 }
 li:nth-child(2){
 	width: 50%;
-	background-color: gray;
+	
 	padding: 10px;
 }
 li:nth-child(3){
@@ -30,7 +35,7 @@ li:nth-child(3){
 }
 li:nth-child(4){
 	width: 50%;
-	background-color: gray;
+	
 	padding: 10px;
 }
 li:last-child{
